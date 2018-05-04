@@ -8,17 +8,17 @@ pip install jupyter
 ```
 
 #### %lsmagic
-`%pdb`	Debug
-`%prun`	Do a performance run
-`%writefile`	Saves the contents of a cell to an external file
-`%pycat`	Shows the syntax highlighted contents of an external file
-`%who`	List all variables of a global scope
-`%store`	Pass variables between notebooks
-`%load`	Insert code from an external script
-`%run`	Execute Python code
-`%env`	Set environment variables
-`%time` will time whatever you evaluate
-`%timeit` will time whatever you evaluate multiple times and give you the best, and the average times
+`%pdb`	Debug \
+`%prun`	Do a performance run \
+`%writefile`	Saves the contents of a cell to an external file \
+`%pycat`	Shows the syntax highlighted contents of an external file \
+`%who`	List all variables of a global scope \
+`%store`	Pass variables between notebooks \
+`%load`	Insert code from an external script \
+`%run`	Execute Python code \
+`%env`	Set environment variables \
+`%time` will time whatever you evaluate \
+`%timeit` will time whatever you evaluate multiple times and give you the best, and the average times \
 
 ##### SysMagic
 `%bash` to run cell with bash in a subprocess.
