@@ -29,4 +29,5 @@ __Changes in format:__ \
 #### Sources / More Reading
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook \
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/ \
-https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
+https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/ \
+https://hackernoon.com/10-tips-on-using-jupyter-notebook-abc0ba7028a4
